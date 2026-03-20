@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm HARSH KUWAR SWAMI
 
-<!--
-**harshkuwarswami/harshkuwarswami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student  
+💻 Web Developer | AI Projects  
+🚀 Currently working on Smart Campus Portal  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- HTML, CSS, JavaScript
+- Java / Python
+- MySQL, DBMS
+- Spring Boot / Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Smart Campus Portal
+- AI Fake News Detection
+- E-commerce Shoe Website
+
+## 📫 Contact
+Email: hkswami4@email.com
